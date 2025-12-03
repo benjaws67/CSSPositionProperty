@@ -17,3 +17,17 @@ div.relative {
   position: relative;
   left: 500px;
 }
+div.relative2 {
+  position: relative;
+  width: 400px;
+  height: 200px;
+  border: 3px solid green;
+}
+div.absolute {
+  position: absolute;
+  top: 9px;
+  right: 20px;
+  width: 20px;
+  height: 10px;
+  border: 30px solid rgb(20, 240, 0);
+}
