@@ -31,3 +31,9 @@ div.absolute {
   height: 10px;
   border: 30px solid rgb(20, 240, 0);
 }
+div.sticky {
+  position: sticky;
+  top: 0;
+  background-color: green;
+  border: 2px solid #4CAF50;
+}
